@@ -6,7 +6,7 @@ semester 1 codes
 
 pushing files
 
-echo "# S1_pytho" >> README.md
+echo "# S1_python" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
