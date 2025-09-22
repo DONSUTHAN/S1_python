@@ -19,3 +19,8 @@ git push -u origin main
 next line.....................
 
 
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/DONSUTHAN/fsdmern-day3.git
+git branch -M main
+git push -u origin main
